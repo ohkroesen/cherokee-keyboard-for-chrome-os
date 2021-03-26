@@ -23,9 +23,9 @@ var lastRemappedKeyEvent = undefined;
 
 var lut = {
 "Backquote": { "plain": {"plain": "Ᏽ", "shifted": "Ꮚ"}, "alternate": {"plain": "", "shifted":"~"}, "code": "Backquote"},
-"Digit1": { "plain": {"plain": "ᏣᎳᎩ", "shifted": "Ꮁ"}, "alternate": {"plain": "1", "shifted":"!"}, "code": "Digit1"},
-"Digit2": { "plain": {"plain": "ᎣᏏᏲ", "shifted": "Ꮗ"}, "alternate": {"plain": "2", "shifted":"@"}, "code": "Digit2"},
-"Digit3": { "plain": {"plain": "ᏩᏙ", "shifted": "Ꮷ"}, "alternate": {"plain": "3", "shifted":"#"}, "code": "Digit3"},
+"Digit1": { "plain": {"plain": "\ᏣᎳᎩ", "shifted": "Ꮁ"}, "alternate": {"plain": "1", "shifted":"!"}, "code": "Digit1"},
+"Digit2": { "plain": {"plain": "\ᎣᏏᏲ", "shifted": "Ꮗ"}, "alternate": {"plain": "2", "shifted":"@"}, "code": "Digit2"},
+"Digit3": { "plain": {"plain": "\ᏩᏙ", "shifted": "Ꮷ"}, "alternate": {"plain": "3", "shifted":"#"}, "code": "Digit3"},
 "Digit4": { "plain": {"plain": "Ꮩ", "shifted": "Ꮀ"}, "alternate": {"plain": "4", "shifted":"$"}, "code": "Digit4"},
 "Digit5": { "plain": {"plain": "Ꮶ", "shifted": "Ꮉ"}, "alternate": {"plain": "5", "shifted":"%"}, "code": "Digit5"},
 "Digit6": { "plain": {"plain": "Ꮬ", "shifted": "Ꮭ"}, "alternate": {"plain": "6", "shifted":"^"}, "code": "Digit6"},
